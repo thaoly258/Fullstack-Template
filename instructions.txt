@@ -1,0 +1,20 @@
+//initialize modules and dependencies
+//require dependencies
+//declare variables
+//connect to mongodb with connection string and send it to env file
+//add env to .gitignore
+//create PORT
+//test mongodb and port connection
+//set middleware
+//create public and view folder -- main.js and style.css to public and main.ejs to view
+//add content to main.js style.css and index.ejs
+//create heroku app 
+//heroku login 
+//heroku create simple-api
+//echo 'web: node server.js' > Procfile
+//git add . 
+//git commit -m 'changes'
+//git push heroku main 
+
+
+//test heroku link
